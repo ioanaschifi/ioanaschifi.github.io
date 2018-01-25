@@ -1,4 +1,4 @@
-#Starting a blog!
+# Starting a blog!
 
 
 At the beginning of 2017, I decided to learn more about data visualization. I was really interested in data, and I had done some design jobs, so it seemed like a perfect fit. But the whole year I was so crippled by self-doubt, and fear, that I didn’t end up learning nearly as much as I wanted to. This blog is a way for me to document learning about design, data analysis and data visualization.
